@@ -7,3 +7,4 @@ iOS App to be used to teach for CodePath students
 | Theodora | theodoranguyen7 |
 | Alejandro | Garcia |
 | Aditya | adityanz |
+| Daniel | Barajas |
