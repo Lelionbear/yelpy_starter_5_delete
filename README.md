@@ -5,3 +5,4 @@ iOS App to be used to teach for CodePath students
 |----|----|
 | Arturo | Lelionbear |
 | Theodora | theodoranguyen7 |
+| Alejandro | Garcia |
